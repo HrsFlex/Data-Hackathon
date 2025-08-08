@@ -87,3 +87,4 @@ coverage.xml
 # Uploaded files
 uploads/
 processed_data/
+venv/
